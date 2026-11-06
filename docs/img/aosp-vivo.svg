@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="526" viewBox="0 0 460 526" role="img" aria-label="vivo · AOSP 改造点">
+<rect width="460" height="526" fill="#ffffff"/>
+<rect x="0" y="0" width="460" height="3" fill="#0f9d8a"/>
+<text x="14.0" y="32.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="14.5" fill="#12181f" font-weight="700" text-anchor="start">vivo · AOSP 改造点</text>
+<text x="14.0" y="49.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#57636f" font-weight="normal" text-anchor="start">Android 12 · iQOO Z1x</text>
+<line x1="14" y1="60" x2="446" y2="60" stroke="#c9d2da"/>
+<text x="14.0" y="76.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9" fill="#94a1ad" font-weight="600" text-anchor="start">AOSP 原生架构</text>
+<text x="232.0" y="76.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9" fill="#0f9d8a" font-weight="600" text-anchor="start">改造点</text>
+<line x1="14" y1="83" x2="222" y2="83" stroke="#c9d2da"/>
+<line x1="232" y1="83" x2="446" y2="83" stroke="#c9d2da"/>
+<rect x="14" y="104" width="208" height="45.5" rx="5" fill="#f4f6f8" stroke="#c9d2da"/>
+<text x="24.0" y="120.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#12181f" font-weight="normal" text-anchor="start">应用层</text>
+<text x="24.0" y="137.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10" fill="#57636f" font-weight="normal" text-anchor="start">第三方 · 预装 app</text>
+<rect x="14" y="156.5" width="208" height="49" rx="5" fill="#f4f6f8" stroke="#c9d2da"/>
+<text x="24.0" y="172.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#12181f" font-weight="normal" text-anchor="start">Java Framework</text>
+<text x="24.0" y="189.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10" fill="#57636f" font-weight="normal" text-anchor="start">framework.jar</text>
+<path d="M 222 181.0 H 222 V 181.0 H 232" fill="none" stroke="#0f9d8a" stroke-width="1" stroke-dasharray="3 2.5" opacity="0.5"/>
+<rect x="232" y="156.5" width="214" height="49" rx="5" fill="#e9f8f5" stroke="#0f9d8a"/>
+<g transform="translate(245,169.5)"><circle cx="0" cy="0" r="7.5" fill="#0f9d8a"/><text x="0.0" y="3.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="middle">1</text></g>
+<text x="257.0" y="173.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">vivo-framework.jar 3.8MB</text>
+<text x="257.0" y="187.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">+ vgcclient.jar 42KB</text>
+<rect x="14" y="212.5" width="208" height="49" rx="5" fill="#f4f6f8" stroke="#c9d2da"/>
+<text x="24.0" y="228.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#12181f" font-weight="normal" text-anchor="start">系统服务</text>
+<text x="24.0" y="245.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10" fill="#57636f" font-weight="normal" text-anchor="start">services.jar · SystemServer</text>
+<path d="M 222 237.0 H 222 V 237.0 H 232" fill="none" stroke="#0f9d8a" stroke-width="1" stroke-dasharray="3 2.5" opacity="0.5"/>
+<rect x="232" y="212.5" width="214" height="49" rx="5" fill="#e9f8f5" stroke="#0f9d8a"/>
+<g transform="translate(245,225.5)"><circle cx="0" cy="0" r="7.5" fill="#0f9d8a"/><text x="0.0" y="3.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="middle">2</text></g>
+<text x="257.0" y="229.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">IVivoSystemServer</text>
+<text x="257.0" y="243.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">起 vivo-services.jar</text>
+<rect x="14" y="268.5" width="208" height="49" rx="5" fill="#f4f6f8" stroke="#c9d2da"/>
+<text x="24.0" y="284.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#12181f" font-weight="normal" text-anchor="start">定制服务</text>
+<text x="24.0" y="301.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10" fill="#57636f" font-weight="normal" text-anchor="start">vivo 前缀 41 / 239</text>
+<path d="M 222 293.0 H 222 V 293.0 H 232" fill="none" stroke="#0f9d8a" stroke-width="1" stroke-dasharray="3 2.5" opacity="0.5"/>
+<rect x="232" y="268.5" width="214" height="49" rx="5" fill="#e9f8f5" stroke="#0f9d8a"/>
+<g transform="translate(245,281.5)"><circle cx="0" cy="0" r="7.5" fill="#0f9d8a"/><text x="0.0" y="3.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="middle">3</text></g>
+<text x="257.0" y="285.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">vivo-services.jar 5.3MB</text>
+<text x="257.0" y="299.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">VGC 按 carrier 选配置</text>
+<rect x="14" y="324.5" width="208" height="45.5" rx="5" fill="#f4f6f8" stroke="#c9d2da"/>
+<text x="24.0" y="340.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#12181f" font-weight="normal" text-anchor="start">Native / HAL</text>
+<text x="24.0" y="357.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10" fill="#57636f" font-weight="normal" text-anchor="start">init · vendor.*</text>
+<rect x="14" y="377.0" width="208" height="45.5" rx="5" fill="#f4f6f8" stroke="#c9d2da"/>
+<text x="24.0" y="393.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#12181f" font-weight="normal" text-anchor="start">Linux Kernel</text>
+<text x="24.0" y="410.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10" fill="#57636f" font-weight="normal" text-anchor="start">binder · dm-verity</text>
+<rect x="14" y="429.5" width="208" height="49" rx="5" fill="#f4f6f8" stroke="#c9d2da"/>
+<text x="24.0" y="445.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#12181f" font-weight="normal" text-anchor="start">分区层</text>
+<text x="24.0" y="462.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10" fill="#57636f" font-weight="normal" text-anchor="start">/system · /product · /vgc</text>
+<path d="M 222 454.0 H 222 V 454.0 H 232" fill="none" stroke="#0f9d8a" stroke-width="1" stroke-dasharray="3 2.5" opacity="0.5"/>
+<rect x="232" y="429.5" width="214" height="49" rx="5" fill="#e9f8f5" stroke="#0f9d8a"/>
+<g transform="translate(245,442.5)"><circle cx="0" cy="0" r="7.5" fill="#0f9d8a"/><text x="0.0" y="3.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#ffffff" font-weight="600" text-anchor="middle">4</text></g>
+<text x="257.0" y="446.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">/vgc 只存目录指针</text>
+<text x="257.0" y="460.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#12181f" font-weight="600" text-anchor="start">/data/vgc 运行时配置</text>
+<line x1="14" y1="491.5" x2="446" y2="491.5" stroke="#c9d2da"/>
+<text x="14.0" y="505.5" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="8.8" fill="#6b7883" font-weight="normal" text-anchor="start">数据取自本仓 iQOO Z1x（A12）固件</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="387" viewBox="0 0 900 387" role="img" aria-label="从刷机到生效：同一件事，四个阶段">
+<rect width="900" height="387" fill="#ffffff"/>
+<rect x="0" y="0" width="900" height="3" fill="#0f9d8a"/>
+<text x="20.0" y="36.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="16.5" fill="#12181f" font-weight="700" text-anchor="start">从刷机到生效：同一件事，四个阶段</text>
+<text x="20.0" y="55.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#57636f" font-weight="normal" text-anchor="start">上为 OPPO（Android 11 · K7），下为 vivo（Android 12 · iQOO Z1x）</text>
+<line x1="20" y1="68" x2="880" y2="68" stroke="#c9d2da"/>
+<text x="196.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">① 刷入</text>
+<line x1="104.0" y1="95" x2="289.0" y2="95" stroke="#c9d2da"/>
+<text x="393.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">② 装载</text>
+<line x1="301.0" y1="95" x2="486.0" y2="95" stroke="#c9d2da"/>
+<text x="590.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">③ 定版</text>
+<line x1="498.0" y1="95" x2="683.0" y2="95" stroke="#c9d2da"/>
+<text x="787.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">④ 生效</text>
+<line x1="695.0" y1="95" x2="880.0" y2="95" stroke="#c9d2da"/>
+<rect x="20" y="104" width="860" height="92" rx="8" fill="#f6f8f9" stroke="#c9d2da"/>
+<rect x="20" y="104" width="4" height="92" rx="2" fill="#1565c0"/>
+<text x="38.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="14" fill="#1565c0" font-weight="700" text-anchor="start">OPPO</text>
+<text x="38.0" y="159.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#94a1ad" font-weight="normal" text-anchor="start">Android 11 · K7</text>
+<rect x="104.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="114.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">OTA 刷入 10 个</text>
+<text x="114.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">my_* 分区</text>
+<path d="M 290.0 150.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 295.0 147.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="301.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="311.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">init 挂载分区，</text>
+<text x="311.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">overlay 叠到 /product</text>
+<path d="M 487.0 150.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 492.0 147.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="498.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="508.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">overlay 优先级</text>
+<text x="508.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">编译期已定死</text>
+<path d="M 684.0 150.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 689.0 147.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="695.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="705.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">SystemServer 反射</text>
+<text x="705.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">插件起定制服务</text>
+<rect x="20" y="208" width="860" height="92" rx="8" fill="#f6f8f9" stroke="#c9d2da"/>
+<rect x="20" y="208" width="4" height="92" rx="2" fill="#2e7d32"/>
+<text x="38.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="14" fill="#2e7d32" font-weight="700" text-anchor="start">vivo</text>
+<text x="38.0" y="263.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#94a1ad" font-weight="normal" text-anchor="start">Android 12 · Z1x</text>
+<rect x="104.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="114.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">OTA 刷入 vgc 分区</text>
+<text x="114.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">+ cota_vgc.img（A/B）</text>
+<path d="M 290.0 254.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 295.0 251.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="301.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="311.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">VivoVgcService 读</text>
+<text x="311.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">XML / prop</text>
+<path d="M 487.0 254.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 492.0 251.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="498.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="508.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">按 carrier / SIM</text>
+<text x="508.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">选配置集</text>
+<path d="M 684.0 254.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 689.0 251.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="695.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="705.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">加载配置与定制 APK</text>
+<text x="705.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">插拔卡即时重载</text>
+<rect x="20" y="318" width="860" height="51" rx="8" fill="#e9f8f5" stroke="#0f9d8a"/>
+<text x="38.0" y="342.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#0f9d8a" font-weight="700" text-anchor="start">同一件事，两种时点</text>
+<text x="38.0" y="361.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.8" fill="#12181f" font-weight="normal" text-anchor="start">OPPO 把结果在编译期定死 —— 改内容就是重刷分区、重新开机；vivo 把选择留到运行期 —— 改内容等于换配置或换卡，不必重刷。</text>
+</svg>

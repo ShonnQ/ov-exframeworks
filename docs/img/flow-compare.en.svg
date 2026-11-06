@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="402" viewBox="0 0 900 402" role="img" aria-label="From flash to effect: same job, four stages">
+<rect width="900" height="402" fill="#ffffff"/>
+<rect x="0" y="0" width="900" height="3" fill="#0f9d8a"/>
+<text x="20.0" y="36.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="16.5" fill="#12181f" font-weight="700" text-anchor="start">From flash to effect: same job, four stages</text>
+<text x="20.0" y="55.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#57636f" font-weight="normal" text-anchor="start">Top: OPPO (Android 11 · K7) — bottom: vivo (Android 12 · iQOO Z1x)</text>
+<line x1="20" y1="68" x2="880" y2="68" stroke="#c9d2da"/>
+<text x="196.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">① Flash</text>
+<line x1="104.0" y1="95" x2="289.0" y2="95" stroke="#c9d2da"/>
+<text x="393.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">② Load</text>
+<line x1="301.0" y1="95" x2="486.0" y2="95" stroke="#c9d2da"/>
+<text x="590.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">③ Decide</text>
+<line x1="498.0" y1="95" x2="683.0" y2="95" stroke="#c9d2da"/>
+<text x="787.5" y="88.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.5" fill="#8c9aa8" font-weight="600" text-anchor="middle">④ Effect</text>
+<line x1="695.0" y1="95" x2="880.0" y2="95" stroke="#c9d2da"/>
+<rect x="20" y="104" width="860" height="92" rx="8" fill="#f6f8f9" stroke="#c9d2da"/>
+<rect x="20" y="104" width="4" height="92" rx="2" fill="#1565c0"/>
+<text x="38.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="14" fill="#1565c0" font-weight="700" text-anchor="start">OPPO</text>
+<text x="38.0" y="159.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#94a1ad" font-weight="normal" text-anchor="start">Android 11 · K7</text>
+<rect x="104.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="114.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">OTA writes 10</text>
+<text x="114.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">my_* partitions</text>
+<path d="M 290.0 150.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 295.0 147.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="301.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="311.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">init mounts them,</text>
+<text x="311.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">overlay onto /product</text>
+<path d="M 487.0 150.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 492.0 147.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="498.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="508.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">Overlay priority</text>
+<text x="508.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">fixed at build time</text>
+<path d="M 684.0 150.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 689.0 147.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="695.0" y="118" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="705.0" y="140.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">SystemServer plugin</text>
+<text x="705.0" y="156.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">starts custom services</text>
+<rect x="20" y="208" width="860" height="92" rx="8" fill="#f6f8f9" stroke="#c9d2da"/>
+<rect x="20" y="208" width="4" height="92" rx="2" fill="#2e7d32"/>
+<text x="38.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="14" fill="#2e7d32" font-weight="700" text-anchor="start">vivo</text>
+<text x="38.0" y="263.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="9.5" fill="#94a1ad" font-weight="normal" text-anchor="start">Android 12 · Z1x</text>
+<rect x="104.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="114.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">OTA writes vgc</text>
+<text x="114.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">+ cota_vgc.img (A/B)</text>
+<path d="M 290.0 254.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 295.0 251.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="301.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="311.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">VivoVgcService reads</text>
+<text x="311.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">XML / prop</text>
+<path d="M 487.0 254.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 492.0 251.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="498.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="508.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">Picks a config set</text>
+<text x="508.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">by carrier / SIM</text>
+<path d="M 684.0 254.0 h 8" stroke="#c9d2da" stroke-width="1.4"/>
+<path d="M 689.0 251.0 l 3 3 l -3 3" fill="none" stroke="#c9d2da" stroke-width="1.4"/>
+<rect x="695.0" y="222" width="185.0" height="64" rx="6" fill="#ffffff" stroke="#c9d2da"/>
+<text x="705.0" y="244.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="600" text-anchor="start">Loads config + APKs</text>
+<text x="705.0" y="260.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11" fill="#12181f" font-weight="normal" text-anchor="start">SIM swap reloads</text>
+<rect x="20" y="318" width="860" height="66" rx="8" fill="#e9f8f5" stroke="#0f9d8a"/>
+<text x="38.0" y="342.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="11.5" fill="#0f9d8a" font-weight="700" text-anchor="start">Same job, two different moments</text>
+<text x="38.0" y="361.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.8" fill="#12181f" font-weight="normal" text-anchor="start">OPPO fixes the result at build time — changing content means re-flashing a partition; vivo keeps the choice at runtime — changing content means swapping</text>
+<text x="38.0" y="376.0" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,Arial,sans-serif" font-size="10.8" fill="#12181f" font-weight="normal" text-anchor="start">config or the SIM.</text>
+</svg>
