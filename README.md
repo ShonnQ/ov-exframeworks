@@ -26,8 +26,8 @@ OPPO 和 vivo 都要用一套 AOSP 覆盖不同运营商、地区和客户。这
 ## 一、总体设计：同一套 AOSP 分层，两家各自的改造点
 
 <p align="center">
-  <img src="docs/img/aosp-oppo.svg" width="49%" alt="OPPO 在 AOSP 上的改造点">
-  <img src="docs/img/aosp-vivo.svg" width="49%" alt="vivo 在 AOSP 上的改造点">
+  <a href="https://github.com/ShonnQ/OV-ExFramework/blob/main/docs/img/aosp-oppo.svg"><img src="docs/img/aosp-oppo.svg" width="49%" alt="OPPO 在 AOSP 上的改造点"></a>
+  <a href="https://github.com/ShonnQ/OV-ExFramework/blob/main/docs/img/aosp-vivo.svg"><img src="docs/img/aosp-vivo.svg" width="49%" alt="vivo 在 AOSP 上的改造点"></a>
 </p>
 
 灰色条是 AOSP 原生分层，绿色卡片是改造点。编号 ①–④ 在两图中落在同一行，同一层两家改了什么，横着看即可。
@@ -72,7 +72,7 @@ OPPO 和 vivo 都要用一套 AOSP 覆盖不同运营商、地区和客户。这
 ## 四、从 OTA 到生效：两条链路
 
 <p align="center">
-  <img src="docs/img/flow-compare.svg" width="100%" alt="从刷机到生效：OPPO 与 vivo 四个阶段对比">
+  <a href="https://github.com/ShonnQ/OV-ExFramework/blob/main/docs/img/flow-compare.svg"><img src="docs/img/flow-compare.svg" width="100%" alt="从刷机到生效：OPPO 与 vivo 四个阶段对比"></a>
 </p>
 
 ---

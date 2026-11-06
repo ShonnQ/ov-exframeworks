@@ -26,8 +26,8 @@ Every claim above can be checked against the original files in this repo: where 
 ## 1. Overall design: one AOSP grid, each vendor's modification points
 
 <p align="center">
-  <img src="docs/img/aosp-oppo.en.svg" width="49%" alt="OPPO's modification points against AOSP">
-  <img src="docs/img/aosp-vivo.en.svg" width="49%" alt="vivo's modification points against AOSP">
+  <a href="https://github.com/ShonnQ/OV-ExFramework/blob/main/docs/img/aosp-oppo.en.svg"><img src="docs/img/aosp-oppo.en.svg" width="49%" alt="OPPO's modification points against AOSP"></a>
+  <a href="https://github.com/ShonnQ/OV-ExFramework/blob/main/docs/img/aosp-vivo.en.svg"><img src="docs/img/aosp-vivo.en.svg" width="49%" alt="vivo's modification points against AOSP"></a>
 </p>
 
 Grey bands are AOSP as shipped; green cards are the modification points. Points ①–④ sit on the same row in both figures, so the same layer can be read across.
@@ -72,7 +72,7 @@ Grey bands are AOSP as shipped; green cards are the modification points. Points 
 ## 4. From flash to effect: the same job in four stages
 
 <p align="center">
-  <img src="docs/img/flow-compare.en.svg" width="100%" alt="From flash to effect: OPPO vs vivo across four stages">
+  <a href="https://github.com/ShonnQ/OV-ExFramework/blob/main/docs/img/flow-compare.en.svg"><img src="docs/img/flow-compare.en.svg" width="100%" alt="From flash to effect: OPPO vs vivo across four stages"></a>
 </p>
 
 ---
